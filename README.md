@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinaysharma18
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java programming
 - 📫 How to reach me ... @abhinaysharma18
 
 <!---
